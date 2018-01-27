@@ -54,7 +54,7 @@ body a:focus {
 /*-- banner --*/
 
 .banner {
-    background: url(../images/IMG-0534.jpg)no-repeat center 0px fixed;
+    background: url(../images/IMG-0534.JPG)no-repeat center 0px fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -456,7 +456,7 @@ h4.agileinfo-head {
 }
 
 div#skills {
-    background: url(../images/IMG-1.jpg) fixed;
+    background: url(../images/IMG-1.JPG) fixed;
     background-size: cover;
 	-webkit-background-size: cover;
     -o-background-size: cover;
